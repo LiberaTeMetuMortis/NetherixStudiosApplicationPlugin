@@ -1,0 +1,8 @@
+name: PotionBlacklist
+version: '${version}'
+main: com.github.liberatemetumortis.potionblacklist.PotionBlacklist
+api-version: 1.19
+commands:
+  potion:
+    description: Main command of PotionBlacklist plugin
+    usage: /potion <blacklist|unblacklist> <player>

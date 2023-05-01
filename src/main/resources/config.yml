@@ -1,0 +1,10 @@
+usages:
+  potion: "&cUsage: &7/potion <blacklist/unblacklist> user"
+
+messages:
+  no-permission: "&cYou don't have permission to do that!"
+  player-not-found: "&cPlayer not found!"
+  player-already-blacklisted: "&cPlayer is already blacklisted!"
+  player-not-blacklisted: "&cPlayer is not blacklisted!"
+  player-blacklisted: "&cPlayer blacklisted!"
+  player-unblacklisted: "&cPlayer unblacklisted!"
